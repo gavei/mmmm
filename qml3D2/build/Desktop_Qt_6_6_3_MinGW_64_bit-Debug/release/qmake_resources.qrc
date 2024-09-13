@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/qml3D2">
+<file alias="main.qml">D:/QtProject/qml3D2/main.qml</file>
+</qresource>
+</RCC>
